@@ -8,7 +8,6 @@
 **GeeK-Gadget** is a premium electronics e-commerce platform showcasing modern web development practices. This fully functional, single-page application demonstrates a complete online shopping experience with an elegant, responsive design.
 
 **Project Type:** Frontend Web Application  
-**Development Approach:** 100% AI-Generated Code  
 **Deployment Status:** Ready for Vercel Deployment
 
 ---
