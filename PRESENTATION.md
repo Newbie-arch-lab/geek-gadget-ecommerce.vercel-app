@@ -14,7 +14,7 @@
 
 ## 💡 About This Project
 
-This project represents a modern approach to web development, where artificial intelligence was leveraged to create a complete, production-ready e-commerce website. Every line of code, from HTML structure to CSS styling and JavaScript functionality, was generated using AI assistance, demonstrating the capabilities of AI-powered development tools in creating real-world applications.
+This project represents a modern approach to web development, where artificial intelligence was leveraged to create a complete, production-ready e-commerce website. Every line of code, from HTML structure to CSS styling and JavaScript functionality, demonstrating the capabilities of AI-powered development tools in creating real-world applications.
 
 The website showcases a premium electronics store with a focus on user experience, modern design principles, and clean, maintainable code architecture.
 
