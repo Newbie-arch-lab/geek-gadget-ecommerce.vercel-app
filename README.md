@@ -32,3 +32,28 @@ This premium electronics e-commerce website is built using the following technol
 **Modal System** - Sign-in forms and quick view product modals with backdrop blur effects
 
 All code is vanilla JavaScript with no external frameworks, making it lightweight and fast-loading. The design follows modern web standards with mobile-first responsive breakpoints at 576px, 768px, and 1024px.
+
+## 🚀 How to Run
+
+### Option 1: Direct Browser (No Extensions Needed)
+Simply open `index.html` in any modern web browser:
+- Double-click the `index.html` file, or
+- Right-click → Open with → Choose your browser (Chrome, Firefox, Edge, Safari)
+
+### Option 2: Live Server (Recommended for Development)
+1. Install the **Live Server** extension in VS Code/Cursor
+2. Right-click on `index.html`
+3. Select "Open with Live Server"
+4. The site will open in your browser with auto-reload on file changes
+
+## 📦 Recommended VS Code/Cursor Extensions
+
+For a better development experience, the following extensions are recommended (optional):
+
+- **Live Server** (`ritwickdey.liveserver`) - Launch a development local server with live reload
+- **Prettier** (`esbenp.prettier-vscode`) - Code formatter for consistent code style
+- **Auto Rename Tag** (`formulahendry.auto-rename-tag`) - Automatically rename paired HTML tags
+- **HTML CSS Support** (`ecmel.vscode-html-css`) - CSS class and id completion in HTML
+- **HTML CSS Class Completion** (`zignd.html-css-class-completion`) - CSS class name completion
+
+> **Note**: These extensions are optional. The project runs perfectly without any extensions - just open `index.html` in your browser!
